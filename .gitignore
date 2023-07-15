@@ -1,0 +1,13 @@
+.vscode/*
+__pycache__/*
+options/__pycache__/*
+**/.DS_Store
+**.pdn
+**/intersected_mask.png
+**/testend.png
+**/testend3.png
+**/sprinkle_mask.png
+**/testmask3.png
+**/donut_mask.png
+**/intersected_mask.png
+**/poster_box.png

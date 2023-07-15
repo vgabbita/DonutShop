@@ -1,4 +1,4 @@
-# IP2223_3
+# ImageProcessing
 Image project repo for group 3
 Project Name: Project 4.3.5 Image Artist
 Authors: Varun G

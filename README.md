@@ -1,9 +1,12 @@
 # ImageProcessing
-Image project repo for group 3
 Project Name: Project 4.3.5 Image Artist
 Authors: Varun G
-Date: 2/26/2023
 
+Instructions: 
+Run `python main.py`
+You will be asked to order 6 donuts from the shop
+Each donut has different preferences that you will be asked about
+After the full order is placed, you will recieve an image containing all 6 of your donuts with your specified preferences
 
 Changelog
 
